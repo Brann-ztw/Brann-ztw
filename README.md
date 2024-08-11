@@ -6,22 +6,9 @@
 
 - 📚 Learning everything about Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- - 🌐 Visit my [porfolio website](#) for complete background and contact.
+- 🌐 Visit my [porfolio website](#) for complete background and contact.
 ---
-
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
-
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/braan._ztw/)
-</p>
-
-</details>
 
 <h4> Languages </h4>
 <span> 
@@ -59,4 +46,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </span>
+
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](#)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/braan._ztw/)
+</p>
+
+</details>
+
     
