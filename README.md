@@ -4,11 +4,14 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a future software engineer
+## About Me 📖
 
-- 📚 Learning everything about Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 😊 Willing to contribute in opensource development projects.
+- 🚀 Technology enthusiast
+- 💻 Back-end developer 
+-🎧 Music lover
+- 🎯 Love tackling new challenges
+- 🌟 Always seeking opportunities to innovate and learn new things
+- 🤝 Collaborate on exciting projects
 - 🌐 Visit my [porfolio website](#) for complete background and contact.
 ---
 
