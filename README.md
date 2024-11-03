@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center"><b> Hello 👋 I'm <a href="#">Braan</a> </b></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
@@ -8,7 +9,7 @@
 
 - 🚀 Technology enthusiast
 - 💻 Back-end developer 
--🎧 Music lover
+- 🎧 Music lover
 - 🎯 Love tackling new challenges
 - 🌟 Always seeking opportunities to innovate and learn new things
 - 🤝 Collaborate on exciting projects
