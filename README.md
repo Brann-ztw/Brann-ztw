@@ -39,13 +39,16 @@
 <br>
 
 - **Back-End Development**:
+  
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Typescript]()
 
 <br>
 
 - **Databases**:
+
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <br>
 
 - **Softwares and Tools**:
