@@ -1,7 +1,6 @@
-<div>
-  <h1><b> Hi there I'm <a href="#">Braan</a> </b></h1>
+<div align="center">
+  <h1 align="center"><b> Hello 👋 I'm <a href="#">Braan</a> </b></h1>
 </div>
-### Hi there 👋 I'm [Braan!](https://github.com/Brann-ztw)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
