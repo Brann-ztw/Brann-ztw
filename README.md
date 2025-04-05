@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- <h1 align="center"><b> Hello 👋 I'm <a href="#">Braan</a> </b></h1> -->
-  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+Braan" alt="Typing SVG" /></a></h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=¡Hola+%F0%9F%91%8B+Soy+Braan;Desarrollador+JS/TS+%F0%9F%96%A5%EF%B8%8F;Música+%F0%9F%8E%B6+y+Fútbol+%E2%9A%BD;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
 </div>
 
 # 💫 About Me:
